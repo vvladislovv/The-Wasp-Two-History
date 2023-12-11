@@ -1,0 +1,3 @@
+local TableAmulet = {}
+
+return TableAmulet
